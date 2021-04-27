@@ -80,6 +80,10 @@ PRODUCT_DEXPREOPT_SPEED_APPS += \
     SystemUI \
     Launcher3QuickStep
 
+# StichImage
+PRODUCT_PACKAGES += \
+    StitchImage
+
 # Dot Packages
 PRODUCT_PACKAGES += \
     Customizations \
